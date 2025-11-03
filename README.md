@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<!-- <img src="https://github.com/KhizarAbbas1/khizar-abbas/blob/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://github.com/KhizarAbbas1/khizar-abbas/blob/output/snake.svg" alt="Snake animation" />
 
 ###
